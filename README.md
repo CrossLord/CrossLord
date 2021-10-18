@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @CrossLord
+- 👀 I’m interested in Crosses and being a Lord
+- 🌱 I’m currently learning JavaScript
+- 💞️ I’m looking to collaborate in learning stuff
+- 📫 I'm ✨ special ✨ in the head
