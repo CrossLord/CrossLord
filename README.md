@@ -1,5 +1,3 @@
 - 👋 Hi, I’m @CrossLord
-- 👀 I’m interested in your mom
 - 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to do small projects
-- 📫 I'm ✨ special ✨ in the head
+- 💞️ I do small projects
